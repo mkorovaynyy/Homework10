@@ -16,13 +16,11 @@ public class Main {
         String fullName = lastName + " " + firstName + " " + middleName;
         System.out.println("ФИО сотрудника — " + fullName);
     }
-
     public static void task2() {
         System.out.println("Задача2");
         String fullName = "Ivanov Ivan Ivanovich";
         System.out.println("Данные ФИО сотрудника для заполнения отчета — " + fullName.toUpperCase());
     }
-
     public static void task3() {
         System.out.println("Задача3");
         String fullName = "Иванов Семён Семёнович";
